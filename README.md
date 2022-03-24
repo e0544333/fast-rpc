@@ -36,6 +36,7 @@ _To be continued_
 
 ## Roadmap
 - [x] Setup skeletal code for multithreaded processes to accommodate request traffic.
+- [ ] Implement graceful shutdown and cleanup from tutorial.
 - [ ] Start with hyperium/tonic implementation of gRPC.
 - [ ] Create custom API endpoints for web services.
 - [ ] Create test cases for API methods.
