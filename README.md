@@ -19,16 +19,17 @@ This is primarily a Rust project. Therefore, it is important to download rust on
 
 For further clarification, refer to this Rust [installation guide](https://doc.rust-lang.org/book/ch01-01-installation.html)
 ## Installation
-Open a terminal and navigate to the project. Afterwards, run the following command:
+1. Open a terminal and navigate to the project. Afterwards, run the following command:
 > cargo build
 
-Once the project has been built, you can safely run the webserver with the following command:
+2. Once the project has been built, you can safely run the webserver with the following command:
 > cargo run
 
-Upon successful startup, open a web browser and connect to http://127.0.0.1:7878/.
+3. Upon successful startup, open a web browser and connect to http://127.0.0.1:7878/.
 
-The expected outcome is following:
-![Expected outcome](https://user-images.githubusercontent.com/76085494/159886584-23150a41-6b55-4a70-b607-cb143ad92937.PNG "Expected Outcome")
+    The expected outcome is following:
+
+    ![Expected outcome](https://user-images.githubusercontent.com/76085494/159887493-613bc529-b3bb-4cc2-a154-b176f99e24a5.PNG "Expected Outcome")
 
 ## Usages
 _To be continued_
